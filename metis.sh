@@ -13,7 +13,7 @@
 # Receiving objects: 100% (25/25), done.
 # Resolving deltas: 100% (7/7), done.
 # 
-# %> cat 1730076/metis.sh >> path/to/your/.dotfile
+# %> cat metis/metis.sh >> path/to/your/.dotfile
 # %> .path/to/your/.dotfile
 #
 # That's it
