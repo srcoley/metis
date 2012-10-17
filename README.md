@@ -16,7 +16,8 @@ remote: Total 25 (delta 7), reused 0 (delta 0)
 Receiving objects: 100% (25/25), done.
 Resolving deltas: 100% (7/7), done.
 
-%> cat 1730076/metis.sh >> path/to/your/.dotfile; .path/to/your/.dotfile
+%> cat 1730076/metis.sh >> path/to/your/.dotfile
+%> .path/to/your/.dotfile
 ```
 
 That's it
