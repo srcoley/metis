@@ -7,7 +7,7 @@ Install
 -------
 
 ```
-%> git clone git://gist.github.com/1730076.git
+%> git clone git://github.com/srcoley/metis.git
 
 Initialized empty Git repository in ~/1730076/.git/
 remote: Counting objects: 25, done.
