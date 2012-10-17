@@ -25,5 +25,7 @@ Metis 0.2 Commands
 ------------------
 
 `metis` - asks which dotfile to save to / displays all aliases saved with Metis.
+
 `metis <alias_name>` - creates an alias that will cd to the current working dir.
+
 `metis use <path/to/dotfile>` - change the path to which Metis saves aliases.
